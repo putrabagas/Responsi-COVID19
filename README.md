@@ -1,2 +1,2 @@
-Nama  : Putra Bagaspati Rohadi
+Nama  : Putra Bagaspati Rohadi\
 NIM   : 123180140
